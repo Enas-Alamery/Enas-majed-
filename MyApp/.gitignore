@@ -55,5 +55,5 @@ android/.gradle/
 android/local.properties
 *.keystore
 key.properties
-
+metadata
 # macOS
